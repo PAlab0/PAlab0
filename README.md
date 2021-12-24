@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="/DATA SCIENCE (2).png" width="300px" >
+  <img src="/DATA SCIENCE (2).png" width="1000px" >
 </p>
 
 # Antonio Melo
