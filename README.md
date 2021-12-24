@@ -6,10 +6,10 @@
 
 
 <p align="center">
-  <img src="/DATA SCIENCE (2).png" width="1000px" >
+  <img src="/DATA SCIENCE (2).png" width="700px">
 </p>
 
-# Antonio Melo
+# PA Laboratory
 <sub>*Ciencia de dados e Engenharia da Computação*</sub>
 
 Me chamo Antonio Melo, bacharelando em Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
