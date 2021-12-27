@@ -10,21 +10,23 @@
 </p>
 
 # PA Laboratory
-<sub>*Ciencia de dados e Engenharia da Computação*</sub>
+<sub>*Data science and Computer Engineering*</sub>
 
-Me chamo Antonio Melo, bacharelando em Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
+PA Lab is formed by students of Production Engineering and Computer Engineering. We can create interactive dashboards with Power BI, data visualizations extracting information from various files with Python, using libraries with Pandas and Matplotlib, among others. The work will be done quickly and will be of high quality.
 
-### **Algumas das minhas competências:**
+### **Some Skills:**
 
-* Desenvolvimento Web;
-* Análise de Dados;
-* Dashboards;
+* Data Cleaning;
+* Data Analysis;
+* Data Visualization;
+* Data Storytelling;
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS. Para acessar os projetos, basta apertar nos icones ao lado.
+
+Here you will find the *notebooks* of our main projects in the Data Science area, . To access the projects, just click on the icons on the side.
 
 <a href="#"><b>Portfólio</b></a>
 
-## Projetos em Python:
+## Data Analysis:
 
 <h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>     Análise dos Dados do Airbnb - Lisboa<h3>
 
@@ -38,7 +40,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ---
 
-## Projetos Webdesign:
+## Articles:
 
 <h3><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>     Projeto 1<h3>
