@@ -1,6 +1,6 @@
 <a href='https://br.fiverr.com/pa_lab/do-data-analysis-using-python-on-google-colab-and-pandas'><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white"></a> 
 <a href='https://instagram.com/palaboratory?utm_medium=copy_link'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://medium.com/@antoniomlo"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/@palab"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href='https://github.com/antoniomlo'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
