@@ -27,7 +27,24 @@ Here you will find the *notebooks* of our main projects in the Data Science area
 
 ## Data Analysis:
 
-<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>     Análise dos Dados do Airbnb - Lisboa<h3>
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Anlalysis Airbnb - Lisboa
+<h3>
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Anlalysis Airbnb - Tokyo
+<h3>
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Anlalysis Airbnb - Berlin
+<h3>
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Anlalysis COVID-19 - Wolrd View
+<h3>
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Anlalysis Soccer - Manchester City
+<h3>  
+  
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>     Data Anlalysis Airbnb - Lisboa<h3>
+  
 
   ---
 
@@ -38,22 +55,3 @@ Here you will find the *notebooks* of our main projects in the Data Science area
 <h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img height= "23px" width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     Projeto 2<h3>
 
 ---
-
-## Articles:
-
-<h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Lisboa<h3>
-
-<h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Tokyo<h3>
-
-  <h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Berlin<h3>
-    
-    <h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     COVID-19<h3>
-      
-      <h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Soccer<h3>
-
-
