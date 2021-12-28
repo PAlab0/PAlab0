@@ -42,11 +42,18 @@ Here you will find the *notebooks* of our main projects in the Data Science area
 ## Articles:
 
 <h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Projeto 1<h3>
-
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Lisboa<h3>
 
 <h3>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Projeto 2<h3>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Tokyo<h3>
 
+  <h3>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Airbnb - Berlin<h3>
+    
+    <h3>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     COVID-19<h3>
+      
+      <h3>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "23px" width="80px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Soccer<h3>
 
 
