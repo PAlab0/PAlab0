@@ -25,17 +25,13 @@ Here you will find the *notebooks* of our main projects in the Data Science area
 
 <a href="#"><b>Portfolio</b></a>
 
-## Data Storytelling:
+## Data Analysis:
 
 <h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_Dados_da_Empresa_Supermercado.ipynb.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://www.canva.com/design/DAEzF06uKlI/baZxR2F5kC_BJPqpmDehIQ/view?utm_content=DAEzF06uKlI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton'><img height= "23px" width="80px"src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>     Analyzing Company Data - Supermarket
 <h3>
 
-## Data Analysis:
-
 <h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/an%C3%A1lise-de-dados-empresa-de-supermercado-6f05c58c8422?p=6f05c58c8422'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Company Data Analysis - Supermarket
 <h3>
-
-  
   
 <h3><a href='https://colab.research.google.com/github/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@antoniomlo/an%C3%A1lise-de-dados-airbnb-lisboa-7f1954598ded'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Data Analysis Airbnb - Lisboa
 <h3>
