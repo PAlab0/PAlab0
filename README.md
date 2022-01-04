@@ -32,7 +32,7 @@ Here you will find the *notebooks* of our main projects in the Data Science area
 
 ## Data Analysis:
 
-<h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/an%C3%A1lise-de-dados-empresa-de-supermercado-6f05c58c8422?p=6f05c58c8422'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Analyzing Company Data - Supermarket
+<h3><a href='https://github.com/carvalhopinheiro/Ciencia-de-Dados/blob/main/An%C3%A1lise_de_Dados_Empresa_de_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"><a href='https://medium.com/@carvalhopinheiro/an%C3%A1lise-de-dados-empresa-de-supermercado-6f05c58c8422?p=6f05c58c8422'><img height= "23px" width="80px"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>     Company Data Analysis - Supermarket
 <h3>
 
   
